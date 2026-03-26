@@ -1,0 +1,15 @@
+ccxt
+pandas
+numpy
+scikit-learn
+tensorflow
+keras
+python-dotenv
+requests
+matplotlib
+seaborn
+ta
+pytest
+python-dateutil
+pytz
+pyyaml
